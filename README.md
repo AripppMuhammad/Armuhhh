@@ -61,14 +61,22 @@ Layer akhir MobileNetV2 disesuaikan dengan jumlah kelas gaya yoga.
 EfficientNet digunakan sebagai model lanjutan untuk meningkatkan akurasi klasifikasi. Model ini menerapkan compound scaling yang mengoptimalkan depth, width, dan resolusi secara bersamaan.
 EfficientNet memberikan performa terbaik, namun membutuhkan sumber daya komputasi yang lebih besar.
 ## 📊 Hasil Evaluasi dan Analisis Perbandingan Model
+Model CNN
+![alt text](https://github.com/AripppMuhammad/Armuhhh/blob/main/cnn.png?raw=true)
+
 ## 🖼️ Visualisasi Performa
 
 ## 👤 Data Diri
 Nama    : Muhammad Arif Rahman Maulana
+
 Nim     : 202210370311196
+
 Kelas   : Pembelajaran Mesin C
+
 Jurusan         : Teknik
+
 Program Studi   : Informatika
+
 Universitas     : Universitas Muhammadiyah Malang
 
 
