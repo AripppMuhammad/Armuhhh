@@ -63,7 +63,8 @@ EfficientNet memberikan performa terbaik, namun membutuhkan sumber daya komputas
 ## 📊 Hasil Evaluasi dan Analisis Perbandingan Model
 Model CNN
 ![alt text](https://github.com/AripppMuhammad/Armuhhh/blob/main/cnn.png?raw=true)
-
+Confusion Matrix
+![alt text](https://github.com/AripppMuhammad/Armuhhh/blob/main/1.png?raw=true)
 ## 🖼️ Visualisasi Performa
 
 ## 👤 Data Diri
